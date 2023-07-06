@@ -1,0 +1,11 @@
+---
+title: "About"
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
+---
+
+It's a blog about LIFE
