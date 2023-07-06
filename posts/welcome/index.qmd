@@ -5,5 +5,7 @@ date: "2023-07-02"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+Camden this is for you!!!
+
+![Camden's Favorite Movie](https://www.youtube.com/watch?v=mn2lO9mgv3g)
 
