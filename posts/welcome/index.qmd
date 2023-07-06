@@ -2,10 +2,12 @@
 title: "Welcome To My Blog"
 author: "Yuan Zhou"
 date: "2023-07-02"
+links:
+  - text: Camden's Fav Movie
+    href: https://www.youtube.com/watch?v=mn2lO9mgv3g
 categories: [news]
 ---
 
-Camden this is for you!!!
+Camden's Favorite Movie
 
-![Camden's Favorite Movie](https://www.youtube.com/watch?v=mn2lO9mgv3g)
-
+![Movie AmuLAnce]<https://www.youtube.com/watch?v=mn2lO9mgv3g>
