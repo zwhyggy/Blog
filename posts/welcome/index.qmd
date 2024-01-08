@@ -10,4 +10,4 @@ categories: [news]
 
 Camden's Favorite Movie
 
-![Movie AmuLAnce]<https://www.youtube.com/watch?v=mn2lO9mgv3g>
+\[Movie AmuLAnce\]<https://www.youtube.com/watch?v=mn2lO9mgv3g>

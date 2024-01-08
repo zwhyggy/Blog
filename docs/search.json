@@ -16,9 +16,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "My Life",
+    "title": "Blogs",
     "section": "",
-    "text": "Utah Trip 22\n\n\n\nTrips\n\n\n\n\n\n\n\nYuan Zhou\n\n\nJul 5, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\nYuan Zhou\n\n\nJul 2, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Portland\n\n\n\nOregon\n\n\n\n\n\n\n\nYuan Zhou\n\n\nJan 7, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nUtah Trip 22\n\n\n\nTrips\n\n\n\n\n\n\n\nYuan Zhou\n\n\nJul 5, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\nYuan Zhou\n\n\nJul 2, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -26,5 +26,19 @@
     "title": "About",
     "section": "",
     "text": "It’s a blog about LIFE"
+  },
+  {
+    "objectID": "posts/Portland/portland.html",
+    "href": "posts/Portland/portland.html",
+    "title": "Portland",
+    "section": "",
+    "text": "Portland Over the Summer"
+  },
+  {
+    "objectID": "portland.html",
+    "href": "portland.html",
+    "title": "Portland",
+    "section": "",
+    "text": "Portland Over the Summer"
   }
 ]
