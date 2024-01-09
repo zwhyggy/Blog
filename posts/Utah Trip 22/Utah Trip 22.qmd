@@ -2,7 +2,7 @@
 title: "Utah Trip 22"
 author: "Yuan Zhou"
 date: "2023-07-05"
-categories: [Trips]
+categories: [Utah]
 ---
 
 Canyonlands National Park
