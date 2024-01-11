@@ -10,4 +10,7 @@ categories: [news]
 
 Camden's Favorite Movie
 
+![](000069020005 2.jpg)
+
+
 {{< video https://www.youtube.com/watch?v=mn2lO9mgv3g >}}
