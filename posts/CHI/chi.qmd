@@ -8,8 +8,6 @@ categories: [Midwest]
 
 230 Baby wont you meet me by the bean?
 
- {{< youtube dQw4w9WgXcQ >}}  # Known working video
-
 ![](001206560010.png)
 
 ![](001206560002.png)
@@ -27,7 +25,6 @@ categories: [Midwest]
 ![](001206560019.png)
 
 {{< youtube ZzuXhUZUDyc >}}
-
 
 ![](001206560024.png)
 
