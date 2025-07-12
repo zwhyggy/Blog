@@ -1,0 +1,9 @@
+---
+title: "Santa Barbara"
+author: "Yuan Zhou"
+date: "2025-07-12"
+categories: [Cali]
+---
+
+
+![](000031190003.jpg)
